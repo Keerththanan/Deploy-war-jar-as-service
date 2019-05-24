@@ -16,9 +16,10 @@
 ## You are all done
 
 If you want to remove the installed service, use this command
-    - WinSW.NET4.exe uninstall
+  - WinSW.NET4.exe uninstall
 
-If you already installed same service with different name, change <id></id> in the xml file and then re run the uninstallation command.
+If you already installed same service with different name, change the id in the id tag in the xml file and then re run the uninstallation command.
+
 ---
 
 
