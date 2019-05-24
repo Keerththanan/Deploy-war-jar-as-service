@@ -10,4 +10,9 @@
       - arguments -> -Dspring.config.location=application.properties -jar %Base%\leave.war
         - where last part should be your war/jar file name.
     - Finaly WinSW.NET4.exe file
+3. Finally **in your service installation directory** type the below command
+    - WinSW.NET4.exe install
+
+You are all done
+---
     

@@ -1,0 +1,7 @@
+<configuration>
+	<id>leave-service-final</id>
+	<name>Leave Service</name>
+	<description>Spring boot Application</description>
+	<executable>java</executable>
+	<arguments>-Dspring.config.location=application.properties -jar %Base%\leave.war</arguments>
+</configuration>
